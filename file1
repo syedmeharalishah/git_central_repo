@@ -1,2 +1,4 @@
 checking the connections
 connection is having auth issue
+
+Connection succeeded after the addition of id_rsa.pub key of the local machine to the central git
